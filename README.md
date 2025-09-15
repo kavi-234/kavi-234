@@ -1,66 +1,89 @@
-# Hi there! 👋 I'm Kaveesha Prabuddhi
-
-## 🚀 About Me
-I'm an **IT & Management Undergraduate** passionate about technology, innovation, and turning ideas into reality. Currently exploring **full-stack development** and always open to **collaboration on interesting projects**.  
-I love learning new technologies, solving problems, and building web solutions that make life easier.  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Hi!+I'm+Kaveesha+Prabuddhi" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaveesha-prabuddhi)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/kaveesha_prabuddhi)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kavi-234)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kprabuddhi2001@gmail.com)
+## 👩‍💻 About Me
+I am a third year **IT & Management Undergraduate** at university of Moratuwa , passionate about **technology, full-stack development, and problem-solving**.  
+I enjoy turning ideas into practical solutions and constantly exploring **new technologies, frameworks, and best practices**.  
+
+**Currently exploring:** Full-Stack Web Development | Backend APIs | Database Design | Clean, Scalable Code  
 
 ---
 
-## 💻 Tech Stack
-
-### Languages & Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-
-### Backend & Runtime
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=postman&logoColor=white)
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 ---
 
-## 🎯 Featured Projects
-| Project | Description | GitHub |
-|---------|-------------|--------|
-| 🏡 **Farm_To_Market** | Full-stack web platform enabling farmers to list harvests for bidding and merchants to arrange transport. | [Repo](https://github.com/rumesh02/harvest-software) |
-| 🏨 **hotel_managementWEB** | Comprehensive hotel management app with booking & admin features. | [Repo](https://github.com/kavi-234/hotel_managementWEB) |
-| 🛒 **E-commerce_Platform** | Full-featured e-commerce platform with shopping cart, payments & user management. | [Repo](https://github.com/kavi-234/E-commerce_Platform) |
-| 💼 **MyPortfolio** | Personal portfolio showcasing projects, skills, and professional journey. | [Repo](https://github.com/kavi-234/MyPortfolio) |
+## 🚀 Featured Projects
+<table>
+<tr>
+<td align="center">
+  <a href="https://github.com/rumesh02/harvest-software">
+    <img src="https://img.shields.io/badge/Farm_To_Market-💻-green?style=for-the-badge" alt="Farm_To_Market" /><br>
+    <sub>Full-stack platform connecting farmers, merchants & transporters</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/kavi-234/hotel_managementWEB">
+    <img src="https://img.shields.io/badge/hotel_managementWEB-🏨-blue?style=for-the-badge" alt="Hotel Management" /><br>
+    <sub>Hotel management system with booking & admin features</sub>
+  </a>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/kavi-234/E-commerce_Platform">
+    <img src="https://img.shields.io/badge/E-commerce_Platform-🛒-orange?style=for-the-badge" alt="E-commerce" /><br>
+    <sub>Complete e-commerce platform with cart, payments & user management</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/kavi-234/MyPortfolio">
+    <img src="https://img.shields.io/badge/MyPortfolio-💼-purple?style=for-the-badge" alt="Portfolio" /><br>
+    <sub>My personal portfolio showcasing skills, projects & journey</sub>
+  </a>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
-![Kaveesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavi-234&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavi-234&layout=compact&theme=radical)
-
----
-
-## 💡 Fun Fact
-> "Code is like humor. When you have to explain it, it's bad." – Cory House  
-
-I also enjoy solving coding challenges, exploring **cybersecurity**, and building tools that make everyday tasks easier.  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavi-234&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavi-234&layout=compact&theme=radical" />
+</p>
 
 ---
 
-## ⚡ Let's Connect!
-I’m always open to **collaboration** or **tech discussions**. Reach out and let’s build something amazing together! 🚀
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/kaveesha-prabuddhi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://hackerrank.com/kaveesha_prabuddhi">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://github.com/kavi-234">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:kprabuddhi2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaveesha-prabuddhi)
+---
+
+<p align="center">💼 I’m looking for **internship opportunities** to contribute, learn, and grow in a professional environment. Let’s connect and build something amazing! 🚀</p>
